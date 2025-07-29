@@ -42,7 +42,7 @@ export const RESUME_DATA: ResumeData = {
       school: "Budapest University of Technology and Economics",
       degree: "Preparatory Program in Engineering (Accepted)",
       start: "2025",
-      end: null,
+      end: "",
     },
   ],
   work: [
